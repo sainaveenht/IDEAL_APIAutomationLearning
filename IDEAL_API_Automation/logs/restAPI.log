@@ -1,0 +1,323 @@
+2021-05-11 00:21:42 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:52 - Response Time is ==>3189
+2021-05-11 00:21:51 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-11 00:21:51 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-11 00:22:38 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:52 - Response Time is ==>3422
+2021-05-11 00:22:47 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-11 00:22:47 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-11 00:25:43 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:52 - Response Time is ==>3632
+2021-05-11 00:25:52 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-11 00:25:52 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 16:50:44 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:52 - Response Time is ==>4051
+2021-05-12 16:50:55 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:81 - Response Body==>{"successful":false,"errorMessage":"Unexpected end of data. Path: $"}
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:40 - Status Code is ==>400
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 400 Bad Request
+2021-05-12 16:50:55 INFO  IDEAL_Automation Report:101 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 16:52:45 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:52 - Response Time is ==>3363
+2021-05-12 16:52:54 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 16:52:54 INFO  IDEAL_Automation Report:19 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:52 - Response Time is ==>2670
+2021-05-12 16:53:02 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:81 - Response Body==>{"successful":false,"errorMessage":"Unexpected end of data. Path: $"}
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:40 - Status Code is ==>400
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 400 Bad Request
+2021-05-12 16:53:02 INFO  IDEAL_Automation Report:101 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 16:54:48 INFO  IDEAL_Automation Report:19 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 16:54:57 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:54:57 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 400 Bad Request
+2021-05-12 16:54:57 INFO  IDEAL_Automation Report:101 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 16:56:43 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 16:56:52 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:56:52 INFO  IDEAL_Automation Report:52 - Response Time is ==>3174
+2021-05-12 16:56:52 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:56:52 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 16:58:05 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:52 - Response Time is ==>3540
+2021-05-12 16:58:14 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 16:58:14 INFO  IDEAL_Automation Report:19 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:52 - Response Time is ==>2823
+2021-05-12 16:58:22 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:81 - Response Body==>{"successful":false,"errorMessage":"Unexpected end of data. Path: $"}
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:40 - Status Code is ==>400
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 400 Bad Request
+2021-05-12 16:58:22 INFO  IDEAL_Automation Report:101 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:05:06 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:52 - Response Time is ==>3141
+2021-05-12 17:05:15 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 17:05:15 INFO  IDEAL_Automation Report:19 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:72 - ***********  Checking Cookies **********
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:40 - ***********  Checking Response Time **********
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:43 - Response Time is ==>2667
+2021-05-12 17:05:22 WARN  IDEAL_Automation Report:46 - Response Time is greater than 2000
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:59 - ***********  Checking Respose Body **********
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:62 - Response Body==>{"successful":false,"errorMessage":"Unexpected end of data. Path: $"}
+2021-05-12 17:05:22 INFO  IDEAL_Automation Report:82 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:26:16 INFO  IDEAL_Automation Report:19 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:72 - ***********  Checking Cookies **********
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:40 - ***********  Checking Response Time **********
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:43 - Response Time is ==>3695
+2021-05-12 17:26:26 WARN  IDEAL_Automation Report:46 - Response Time is greater than 2000
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:59 - ***********  Checking Respose Body **********
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:62 - Response Body==>{"successful":false,"errorMessage":"Unexpected end of data. Path: $"}
+2021-05-12 17:26:26 INFO  IDEAL_Automation Report:82 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:35:00 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:87 - ***********  Checking Cookies **********
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:55 - ***********  Checking Response Time **********
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:58 - Response Time is ==>4758
+2021-05-12 17:35:11 WARN  IDEAL_Automation Report:61 - Response Time is greater than 2000
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:74 - ***********  Checking Respose Body **********
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:77 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 17:35:11 INFO  IDEAL_Automation Report:97 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:36:29 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:52 - Response Time is ==>3094
+2021-05-12 17:36:38 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 17:36:38 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:109 - ***********  Checking Cookies **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:70 - Response Time is ==>3639
+2021-05-12 17:36:46 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-12 17:36:46 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:36:47 INFO  IDEAL_Automation Report:119 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:44:15 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:52 - Response Time is ==>3225
+2021-05-12 17:44:25 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 17:44:25 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:109 - ***********  Checking Cookies **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:70 - Response Time is ==>3609
+2021-05-12 17:44:33 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:44:33 INFO  IDEAL_Automation Report:119 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:47:51 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:52 - Response Time is ==>3051
+2021-05-12 17:48:00 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 17:48:00 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:109 - ***********  Checking Cookies **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:70 - Response Time is ==>3307
+2021-05-12 17:48:08 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:48:08 INFO  IDEAL_Automation Report:119 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 17:57:28 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:52 - Response Time is ==>3069
+2021-05-12 17:57:37 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 17:57:37 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:109 - ***********  Checking Cookies **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:70 - Response Time is ==>2438
+2021-05-12 17:57:44 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 17:57:44 INFO  IDEAL_Automation Report:119 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 18:46:37 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:91 - ***********  Checking Cookies **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:52 - Response Time is ==>3352
+2021-05-12 18:46:46 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:78 - ***********  Checking Respose Body **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:81 - Response Body==>Received
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:37 - ***********  Checking Status Code **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:40 - Status Code is ==>200
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:65 - ***********  Checking Status Line **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:68 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 18:46:46 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-12 18:46:56 INFO  IDEAL_Automation Report:109 - ***********  Checking Cookies **********
+2021-05-12 18:46:56 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-12 18:46:56 INFO  IDEAL_Automation Report:70 - Response Time is ==>5271
+2021-05-12 18:46:56 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"Registro de comerciante o cuenta de IVU no activa al presente.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":false,"PaymentPlan":false}]}
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-12 18:46:57 INFO  IDEAL_Automation Report:119 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-12 19:00:20 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 19:00:22 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 19:00:28 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 19:00:28 INFO  IDEAL_Automation Report:52 - Response Time is ==>2807
+2021-05-12 19:00:28 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 19:00:28 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 19:00:30 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 19:00:30 INFO  IDEAL_Automation Report:52 - Response Time is ==>2545
+2021-05-12 19:00:30 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 19:00:30 INFO  IDEAL_Automation Report:101 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 19:03:58 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 19:04:06 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 19:04:06 INFO  IDEAL_Automation Report:52 - Response Time is ==>3041
+2021-05-12 19:04:06 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 19:04:06 INFO  IDEAL_Automation Report:102 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 19:05:29 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 19:05:32 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 19:05:32 INFO  IDEAL_Automation Report:52 - Response Time is ==>2868
+2021-05-12 19:05:32 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 19:05:32 INFO  IDEAL_Automation Report:102 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 19:07:10 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 19:07:14 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 19:07:14 INFO  IDEAL_Automation Report:52 - Response Time is ==>2848
+2021-05-12 19:07:14 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 19:07:14 INFO  IDEAL_Automation Report:102 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 20:06:36 INFO  IDEAL_Automation Report:19 - *********Started TC01_Hacienda_ping **********
+2021-05-12 20:06:40 INFO  IDEAL_Automation Report:49 - ***********  Checking Response Time **********
+2021-05-12 20:06:40 INFO  IDEAL_Automation Report:52 - Response Time is ==>2837
+2021-05-12 20:06:40 WARN  IDEAL_Automation Report:55 - Response Time is greater than 2000
+2021-05-12 20:06:40 INFO  IDEAL_Automation Report:102 - *********  Finished TC01_Hacienda_ping **********
+2021-05-12 20:09:08 INFO  IDEAL_Automation Report:21 - *********Started TC01_Hacienda_ping **********
+2021-05-12 20:09:12 INFO  IDEAL_Automation Report:51 - ***********  Checking Response Time **********
+2021-05-12 20:09:12 INFO  IDEAL_Automation Report:54 - Response Time is ==>2779
+2021-05-12 20:09:12 WARN  IDEAL_Automation Report:57 - Response Time is greater than 2000
+2021-05-12 20:09:12 INFO  IDEAL_Automation Report:108 - *********  Finished TC01_Hacienda_ping **********
+2021-05-13 21:28:19 INFO  IDEAL_Automation Report:21 - *********Started TC01_Hacienda_ping **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:51 - ***********  Checking Response Time **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:54 - Response Time is ==>3394
+2021-05-13 21:28:25 WARN  IDEAL_Automation Report:57 - Response Time is greater than 2000
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:85 - ***********  Checking Respose Body **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:88 - Response Body==>Received
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:39 - ***********  Checking Status Code **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:42 - Status Code is ==>200
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:72 - ***********  Checking Status Line **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:75 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:99 - *********  Finished TC01_Hacienda_ping **********
+2021-05-13 21:28:25 INFO  IDEAL_Automation Report:20 - *********Started TC02_Hacienda_compliance **********
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:67 - ***********  Checking Response Time **********
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:70 - Response Time is ==>4091
+2021-05-13 21:28:34 WARN  IDEAL_Automation Report:73 - Response Time is greater than 2000
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:96 - ***********  Checking Respose Body **********
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:99 - Response Body==>{"successful":true,"customerExists":true,"nameMatch":0,"customerKey":1746048512,"errorMessage":"No se encontr\u00f3 la ID de Registro de Comerciante.","merchantDetail":[{"merchantMatch":2,"merchantActive":false,"merchantCompliant":false}],"complianceDetail":[{"debtCompliant":false,"filingCompliant":true,"filingCompliantSUT":true,"PaymentPlan":false}]}
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:54 - ***********  Checking Status Code **********
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:57 - Status Code is ==>200
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:83 - ***********  Checking Status Line **********
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:86 - Status Line is ==>HTTP/1.1 200 OK
+2021-05-13 21:28:34 INFO  IDEAL_Automation Report:110 - *********  Finished TC02_Hacienda_compilance **********
+2021-05-13 22:51:15 INFO  IDEAL_Automation Report:21 - *********Started TC01_Hacienda_ping **********
+2021-05-13 22:51:19 INFO  IDEAL_Automation Report:51 - ***********  Checking Response Time **********
+2021-05-13 22:51:19 INFO  IDEAL_Automation Report:54 - Response Time is ==>3053
+2021-05-13 22:51:19 WARN  IDEAL_Automation Report:57 - Response Time is greater than 2000
+2021-05-13 22:51:19 INFO  IDEAL_Automation Report:99 - *********  Finished TC01_Hacienda_ping **********

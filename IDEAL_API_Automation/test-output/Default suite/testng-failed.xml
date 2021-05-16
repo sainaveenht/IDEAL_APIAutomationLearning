@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.qa.codedog.testCases.TC02_Hacienda_compliance">
+        <methods>
+          <include name="checkstatusLine"/>
+          <include name="setup"/>
+          <include name="hacienda_compliance"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.codedog.testCases.TC02_Hacienda_compliance -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
